@@ -1,0 +1,9 @@
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\bin\Release\Lettrage.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\bin\Release\Lettrage.exe
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\bin\Release\Lettrage.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\obj\Release\Lettrage.Form1.resources
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\obj\Release\Lettrage.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\obj\Release\Lettrage.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\obj\Release\Lettrage.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\obj\Release\Lettrage.exe
+C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\Lettrage\Lettrage\obj\Release\Lettrage.pdb
