@@ -1,0 +1,1 @@
+﻿[ ] Mettre les valeurs en grille pour pouvoir inhiber des lignes par une case à cocher, et montrer le résultat par coloration des lignes lettrées
